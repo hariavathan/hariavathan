@@ -104,15 +104,34 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariprasannavathan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasannavathan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariprasannavathan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10&amp;cache_seconds=1800" alt="GitHub Stats"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasannavathan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10&amp;cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 ---
 
----
+## 🔥 Streak Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=hariprasannavathan&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;border_radius=10" alt="GitHub Streak"/>
+</p>
 
 ---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hariprasannavathan&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
+## 🏆 Trophy Wall
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hariprasannavathan&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=2&amp;column=4&amp;margin-w=8&amp;margin-h=8" alt="Trophies"/>
+</p>
 
 ---
 
