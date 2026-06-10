@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Hariprasannavathan%20S&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20ML%20Enthusiast%20%7C%20Hackathon%20Winner%20%7C%20Cybersecurity%20Finalist&descAlignY=58&descSize=18&descColor=c9d1d9)
+# 👋 Hariprasannavathan S
+
+### 🤖 AI & ML Enthusiast &nbsp;|&nbsp; 🏆 Hackathon Winner &nbsp;|&nbsp; 🛡️ Cybersecurity Finalist
 
 </div>
 
@@ -108,27 +110,9 @@ print(me.motto())
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=hariprasannavathan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&border_radius=10" alt="GitHub Streak"/>
-</p>
-
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hariprasannavathan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
 ---
-
-## 🏆 Trophy Wall
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hariprasannavathan&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trophy"/>
-</p>
 
 ---
 
