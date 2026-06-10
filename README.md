@@ -1,12 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Hariprasannavathan+S&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI+%26+ML+Enthusiast+%7C+Hackathon+Winner+%7C+Cybersecurity+Finalist&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hariprasannavathan%20S&fontSize=48&fontColor=E8C97A&animation=twinkling&fontAlignY=36&desc=AI%20%26%20ML%20Engineer%20%7C%20Hackathon%20Winner%20%F0%9F%8F%86%20%7C%20TN%20Cyber%20Finalist%20%F0%9F%9B%A1%EF%B8%8F&descAlignY=62&descSize=17&descColor=C9A84C" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Hari+%F0%9F%91%8B;AI+%26+ML+Engineer+in+the+Making+%F0%9F%A4%96;National+Hackathon+Winner+%F0%9F%8F%86;TN+Cyber+Hackathon+2026+Finalist+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Hari+%F0%9F%91%8B;AI+%26+ML+Engineer+in+the+Making+%F0%9F%A4%96;National+Hackathon+Winner+%F0%9F%8F%86;TN+Cyber+Hackathon+2026+Finalist+%F0%9F%9B%A1%EF%B8%8F;Build.+Break.+Learn.+Repeat.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=HariprasannaVathan&label=Profile%20views&color=70a5fd&style=flat-square)](https://github.com/HariprasannaVathan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hariprasanna-vathan-488b0633b)
-[![Email](https://img.shields.io/badge/Email-rajamhariavathan%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajamhariavathan@gmail.com)
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=HariprasannaVathan&label=Profile+Views&color=C9A84C&style=flat-square)](https://github.com/HariprasannaVathan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C9A84C?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0c)](https://linkedin.com/in/hariprasanna-vathan-488b0633b)
+[![Gmail](https://img.shields.io/badge/Gmail-rajamhariavathan%40gmail.com-C9A84C?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0a0c)](mailto:rajamhariavathan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-HariprasannaVathan-C9A84C?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0c)](https://github.com/HariprasannaVathan)
 
 </div>
 
@@ -14,39 +17,43 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class Hariprasannavathan:
     def __init__(self):
-        self.name        = "Hariprasannavathan S"
-        self.location    = "Aranthangi, Tamil Nadu, India 📍"
-        self.degree      = "B.E. Computer Science & Engineering (2023–2027)"
-        self.college     = "MNM Jain Engineering College, Anna University"
-        self.cgpa        = 8.12
+        self.name     = "Hariprasannavathan S"
+        self.location = "Aranthangi, Tamil Nadu, India 📍"
+        self.degree   = "B.E. Computer Science & Engineering"
+        self.college  = "MNM Jain Engineering College, Anna University"
+        self.cgpa     = 8.12
+        self.period   = "2023 – 2027"
 
         self.stack = [
             "Python", "Java", "C",
-            "MySQL", "AI/ML", "IoT",
-            "Cybersecurity", "SDN", "Cloud"
+            "AI/ML", "IoT", "SDN",
+            "MySQL", "Cybersecurity", "Cloud"
         ]
 
         self.currently_learning = [
-            "Deep Learning & Neural Networks",
-            "Advanced Cybersecurity & Ethical Hacking",
-            "Software Defined Networking (SDN)",
-            "Cloud Architecture (AWS / GCP)"
+            "Deep Learning — CNN · RNN · Transformers",
+            "Cybersecurity — Ethical Hacking · CTF · OWASP",
+            "SDN & Networking — OpenFlow · Mininet · P4",
+            "Cloud Architecture — AWS · GCP · Serverless",
+            "MLOps — Docker · CI/CD Pipelines",
+            "Data Science — Pandas · NumPy · Matplotlib"
         ]
 
-        self.fun_fact = (
-            "Won 1st Prize at a National Hackathon "
-            "with an AI-powered IoT solution! 🏆"
-        )
+        self.achievements = [
+            "🏆 1st Prize — National Level Hackathon (IoT + AI)",
+            "🛡️ TN Cyber Hackathon 2026 — Finalist (Rank #13)",
+            "🎓 IBM SkillsBuild — Software Development Intern"
+        ]
 
     def motto(self):
         return "Build. Break. Learn. Repeat. 🚀"
 
-me = Hariavathan()
+me = Hariprasannavathan()
 print(me.motto())
 ```
 
@@ -54,76 +61,40 @@ print(me.motto())
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-**AI / ML & Technologies**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00B2A9?style=flat-square&logo=internetofthings&logoColor=white)
-
-**Web & Backend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Cloud & DevOps**
-
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Tools**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=flat-square&logo=hackthebox&logoColor=white)
-![SDN](https://img.shields.io/badge/SDN-0078D4?style=flat-square&logo=cisco&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## 📊 Stats at a Glance
 
 <div align="center">
 
-<a href="https://github.com/HariprasannaVathan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HariprasannaVathan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/HariprasannaVathan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariprasannaVathan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
+| 🎯 CGPA | 🏆 National Rank | 🛡️ Statewide Rank | 📜 Certifications | 🚀 Projects |
+|:---:|:---:|:---:|:---:|:---:|
+| **8.12 / 10** | **#1** (Hackathon) | **#13** (TN Cyber) | **9+** | **4** Major |
 
 </div>
 
 ---
 
-## 🔥 Streak Stats
+## 📈 GitHub Analytics
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HariprasannaVathan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+<a href="https://github.com/HariprasannaVathan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HariprasannaVathan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=C9A84C&icon_color=E8C97A&text_color=F0EAD6&border_radius=10&ring_color=C9A84C"/>
+</a>
+<a href="https://github.com/HariprasannaVathan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariprasannaVathan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9A84C&text_color=F0EAD6&langs_count=8&border_radius=10"/>
+</a>
 
 </div>
 
----
+<div align="center">
 
-## 📈 Activity Graph
+[![GitHub Streak](https://streak-stats.demolab.com?user=HariprasannaVathan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=C9A84C&fire=E8C97A&currStreakLabel=C9A84C&sideLabels=8B6914&dates=8B949E&currStreakNum=F0EAD6&sideNums=F0EAD6&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+
+</div>
 
 <div align="center">
 
-[![Hari's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HariprasannaVathan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/HariprasannaVathan)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HariprasannaVathan&theme=tokyo-night&bg_color=0d1117&color=C9A84C&line=E8C97A&point=8B6914&area=true&hide_border=true)](https://github.com/HariprasannaVathan)
 
 </div>
 
@@ -139,25 +110,46 @@ print(me.motto())
 
 ---
 
-## 💼 Work Experience
+## 🛠️ Tech Stack
 
-<details>
-<summary><b>🏢 IBM SkillsBuild — Software Development Intern &nbsp;|&nbsp; 2024 &nbsp;|&nbsp; Remote, India</b></summary>
+**Languages**
 
-<br/>
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=C9A84C&labelColor=0d1117&color=C9A84C)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=E8C97A&labelColor=0d1117&color=E8C97A)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=C9A84C&labelColor=0d1117&color=C9A84C)
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**AI / ML & Data Science**
 
-- 🚀 Built a full-stack **Learning Management System (LMS)** for course management and student progress tracking, serving end-to-end educational workflows.
-- 🔐 Implemented **secure authentication**, enrollment management, and assignment submission features to ensure data integrity and access control.
-- 🗄️ Integrated **MySQL database** to efficiently manage user profiles, course records, and student performance data.
-- 📜 Successfully completed an industry-oriented internship under **IBM SkillsBuild**, focused on educational technology and software development best practices.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=E8C97A&color=E8C97A)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=C9A84C&color=C9A84C)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=E8C97A&color=E8C97A)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=C9A84C&color=C9A84C)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=E8C97A&color=E8C97A)
 
-</details>
+**Web & Backend**
+
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=C9A84C&color=C9A84C)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=E8C97A&color=E8C97A)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=C9A84C&color=C9A84C)
+
+**Databases & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=E8C97A&color=E8C97A)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-0d1117?style=flat-square&logo=googlecloud&logoColor=C9A84C&color=C9A84C)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=E8C97A&color=E8C97A)
+
+**Security & Networking**
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=flat-square&logo=hackthebox&logoColor=C9A84C&color=C9A84C)
+![SDN](https://img.shields.io/badge/SDN_OpenFlow-0d1117?style=flat-square&logo=cisco&logoColor=E8C97A&color=E8C97A)
+![IoT](https://img.shields.io/badge/IoT-0d1117?style=flat-square&logo=internetofthings&logoColor=C9A84C&color=C9A84C)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=E8C97A&color=E8C97A)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=C9A84C&color=C9A84C)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=E8C97A&color=E8C97A)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=C9A84C&color=C9A84C)
 
 ---
 
@@ -165,12 +157,12 @@ print(me.motto())
 
 <div align="center">
 
-| 🗂️ Project | 🛠️ Stack | ✨ Highlights |
+| 🗂️ Project | 🛠️ Tech Stack | ✨ Highlights |
 |:---|:---|:---|
-| [**Network Traffic Flow Optimization Using AI & SDN**](#) | Python · AI/ML · SDN · OpenFlow | Developed an AI-driven traffic prediction model that optimized SDN routing; reduced network congestion through intelligent traffic management and real-time flow control |
-| [**Credit Card Fraud Detection System**](#) | Python · Scikit-Learn · MySQL · Pandas | Built a supervised ML model to identify fraudulent transactions; improved fraud detection efficiency through predictive analytics and feature engineering |
-| [**Learning Management System (LMS)**](#) | Python · MySQL · HTML · CSS · JavaScript | Designed a full-stack LMS streamlining course enrollment, assignment submission, and student performance tracking; deployed during IBM SkillsBuild internship |
-| [**IoT with AI Smart Solution**](#) | Python · IoT · AI/ML · Embedded Systems | Created an AI-powered IoT solution for intelligent automation; secured **1st Prize 🏆** at a National Level Technical Hackathon at Jeppiaar Engineering College |
+| 🤖 **IoT with AI Smart Solution** | Python · IoT · AI/ML · Embedded | 🏆 **1st Prize** at National Level Hackathon — Jeppiaar Engineering College |
+| 🌐 **Network Traffic Flow Optimization** | Python · AI/ML · SDN · OpenFlow | AI-driven SDN routing; reduced network congestion via real-time flow control |
+| 💳 **Credit Card Fraud Detection** | Python · Scikit-Learn · MySQL · Pandas | Supervised ML model with predictive analytics & feature engineering |
+| 📚 **Learning Management System** | Python · MySQL · HTML · CSS · JS | Full-stack LMS deployed during IBM SkillsBuild internship |
 
 </div>
 
@@ -182,17 +174,39 @@ print(me.motto())
 
 | 🎖️ | Achievement | Details |
 |:---:|:---|:---|
-| 🏆 | **1st Prize — National Level Technical Hackathon** | Won 1st Place at Jeppiaar Engineering College for an innovative **IoT + AI** solution out of teams nationwide |
-| 🛡️ | **TN Cyber Hackathon 2026 — Finalist** | Achieved **13th Rank statewide** and advanced to the Finalist Phase of TN Cyber Hackathon 2026 |
-| 🎓 | **IBM SkillsBuild Internship** | Successfully completed an industry-oriented internship focused on educational technology and full-stack software development |
-| 🛰️ | **ISRO Certification — Geo-data Sharing & Cyber Security** | Certified by the Indian Space Research Organisation |
-| 🤖 | **Microsoft — Introduction to Generative AI** | Certified by Microsoft in Generative AI fundamentals |
-| 🌐 | **IIT Kharagpur — Introduction to IoT** | Certified by IIT Kharagpur via NPTEL |
-| ☁️ | **IIT Kharagpur — Cloud Computing** | Certified by IIT Kharagpur via NPTEL |
-| 🤝 | **Infosys — Implementing Robotic Process Automation** | Certified by Infosys Springboard |
-| 🎨 | **Infosys — 3D Modeling: Tools and Features** | Certified by Infosys Springboard |
+| 🏆 | **1st Prize — National Level Technical Hackathon** | IoT + AI solution · Jeppiaar Engineering College · Teams competing nationwide |
+| 🛡️ | **TN Cyber Hackathon 2026 — Finalist** | **Rank #13 statewide** · Advanced to Final Phase |
+| 🎓 | **IBM SkillsBuild Internship — 2024** | Software Development · Educational Technology · Full-Stack |
+| 🛰️ | **ISRO Certification** | Geo-data Sharing & Cyber Security |
+| 🤖 | **Microsoft Certification** | Introduction to Generative AI |
+| 🌐 | **IIT Kharagpur — NPTEL** | Introduction to IoT |
+| ☁️ | **IIT Kharagpur — NPTEL** | Cloud Computing |
+| 🤝 | **Infosys Springboard** | Implementing Robotic Process Automation |
+| 🎨 | **Infosys Springboard** | 3D Modeling: Tools and Features |
 
 </div>
+
+---
+
+## 💼 Work Experience
+
+<details>
+<summary><b>🏢 IBM SkillsBuild — Software Development Intern &nbsp;|&nbsp; 2024 &nbsp;|&nbsp; Remote, India</b></summary>
+
+<br/>
+
+> ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=C9A84C&color=C9A84C)
+> ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=E8C97A&color=E8C97A)
+> ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=C9A84C&color=C9A84C)
+> ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=E8C97A&color=E8C97A)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=C9A84C&color=C9A84C)
+
+- 🚀 Built a full-stack **Learning Management System (LMS)** for course management and student progress tracking
+- 🔐 Implemented **secure authentication**, enrollment management, and assignment submission features
+- 🗄️ Integrated **MySQL database** for user profiles, course records, and student performance data
+- 📜 Completed industry-oriented internship under **IBM SkillsBuild** focused on educational technology
+
+</details>
 
 ---
 
@@ -200,9 +214,9 @@ print(me.motto())
 
 <div align="center">
 
-| 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
+| 🎓 Degree | 🏛️ Institution | 📅 Period | 📊 Score |
 |:---|:---|:---:|:---:|
-| B.E. — Computer Science & Engineering | MNM Jain Engineering College (Anna University) | 2023 – 2027 | CGPA: 8.12 / 10 |
+| B.E. — Computer Science & Engineering | MNM Jain Engineering College · Anna University | 2023 – 2027 | **CGPA: 8.12 / 10** |
 
 </div>
 
@@ -212,25 +226,37 @@ print(me.motto())
 
 ```
 🧠 Deep Learning        →  Neural Networks · CNN · RNN · Transformers
-🛡️ Cybersecurity        →  Ethical Hacking · CTF · Network Security · OWASP
+🛡️  Cybersecurity        →  Ethical Hacking · CTF · Network Security · OWASP
 🌐 SDN & Networking     →  OpenFlow · Mininet · P4 · Traffic Engineering
-☁️ Cloud Architecture   →  AWS · GCP · Serverless · Microservices
+☁️  Cloud Architecture   →  AWS · GCP · Serverless · Microservices
 🤖 MLOps               →  Model Deployment · Docker · CI/CD Pipelines
 📊 Data Science         →  Pandas · NumPy · Matplotlib · Feature Engineering
 ```
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
-### 💬 "Build. Break. Learn. Repeat. 🚀"
-
-**Let's connect and build something amazing together!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hariprasanna-vathan-488b0633b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajamhariavathan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HariprasannaVathan)
+![Snake animation](https://github.com/HariprasannaVathan/HariprasannaVathan/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+---
+
+<div align="center">
+
+### 💬 *"Build. Break. Learn. Repeat. 🚀"*
+
+**Let's connect and build something amazing together!**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=C9A84C&color=C9A84C)](https://linkedin.com/in/hariprasanna-vathan-488b0633b)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=E8C97A&color=E8C97A)](mailto:rajamhariavathan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=C9A84C&color=C9A84C)](https://github.com/HariprasannaVathan)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling&fontColor=C9A84C" width="100%"/>
