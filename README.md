@@ -46,7 +46,7 @@ class Hariprasannavathan:
     def motto(self):
         return "Build. Break. Learn. Repeat. 🚀"
 
-me = Hariprasannavathan()
+me = Hariavathan()
 print(me.motto())
 ```
 
