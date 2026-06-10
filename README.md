@@ -101,42 +101,34 @@ print(me.motto())
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hariprasannavathan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800)](https://github.com/hariprasannavathan)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasannavathan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800)](https://github.com/hariprasannavathan)
-
-</div>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariprasannavathan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasannavathan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800" alt="Top Languages"/>
+</p>
 
 ---
 
 ## 🔥 Streak Stats
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hariprasannavathan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&border_radius=10)](https://streak-stats.demolab.com)
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=hariprasannavathan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&border_radius=10" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ## 📈 Activity Graph
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hariprasannavathan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hariprasannavathan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
 
 ---
 
 ## 🏆 Trophy Wall
 
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=hariprasannavathan&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hariprasannavathan&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trophy"/>
+</p>
 
 ---
 
