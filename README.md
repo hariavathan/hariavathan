@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariprasannavathan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Enthusiast%20%7C%20Hackathon%20Winner%20%7C%20Cybersecurity%20Finalist&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariprasannavathan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Hari+%F0%9F%91%8B;CSE+Student+%7C+AI+%26+ML+Enthusiast+%F0%9F%A4%96;National+Hackathon+Winner+%F0%9F%8F%86;TN+Cyber+Hackathon+2026+Finalist+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
